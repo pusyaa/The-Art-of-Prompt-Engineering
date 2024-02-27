@@ -6,6 +6,6 @@
 
 Mentee Assignment from IBM Advance AI Infinite Learning
 
-
-Nama : Putri Syajah
-Program : IBM Advance AI
+## Mentee Info
+### Nama : Putri Syajah
+### Program : IBM Advance AI
