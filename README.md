@@ -5,4 +5,7 @@
 ## Author : Sina Nazeri (PhD.)
 
 Mentee Assignment from IBM Advance AI Infinite Learning
-### Putri Syajah
+
+
+Nama : Putri Syajah
+Program : IBM Advance AI
